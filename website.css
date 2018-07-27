@@ -1,0 +1,20 @@
+body{
+    background-color: black;
+}
+
+h1{
+    color: white;
+    font-size: 45px;
+    text-align: center;
+}
+
+.bio{
+    color: white;
+    font-size: 50px;
+    text-align: center;
+}
+
+img{
+    height: 350px;
+    width: 350px;
+}
