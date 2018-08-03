@@ -3,18 +3,70 @@ body{
 }
 
 h1{
-    color: white;
+    color: yellow;
+    font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 45px;
+    position: relative;
+    text-align: center;
+    top: 50px;
+}
+
+h2{
+    color: cyan;
+    font-size: 35px;
     text-align: center;
 }
 
-.bio{
-    color: white;
-    font-size: 50px;
+.profile{
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
+
+.shool{
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+}
+
+.fer{
+    color: cadetblue;
+    font-size: 35px;
     text-align: center;
 }
 
-img{
-    height: 350px;
-    width: 350px;
+.desc{
+    color: yellow;
+    font-size: 35px;
+    text-align: center;
+}
+
+.naV{
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+}
+
+.topNav{
+    font-size: 35px;
+    text-align: center;
+}
+
+
+h3{
+    color: darkseagreen;
+    font-size: 40px;
+    text-align: center;
+}
+
+.idol{
+    color: gold;
+    font-size: 30px;
+    text-align: right;
+}
+
+h4{
+    color: darkorange;
+    font-size: 40px;
+    text-align: center;
 }
